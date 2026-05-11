@@ -1,0 +1,4 @@
+font-size = 18
+background-opacity = 0.9 
+theme = 12-bit Rainbow 
+custom-shader = ./shaders/cursor_tail.glsl
